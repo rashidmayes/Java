@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="Scaron"/>
+<entry key="emsp"/>
+<entry key="scaron"/>
+<entry key="zwnj"/>
+<entry key="rdquo"/>
+<entry key="lrm"/>
+<entry key="OElig"/>
+<entry key="dagger"/>
+<entry key="bdquo"/>
+<entry key="ndash"/>
+<entry key="rsquo"/>
+<entry key="ldquo"/>
+<entry key="rlm"/>
+<entry key="sbquo"/>
+<entry key="circ"/>
+<entry key="ensp"/>
+<entry key="thinsp"/>
+<entry key="mdash"/>
+<entry key="lsquo"/>
+<entry key="zwj"/>
+<entry key="Yuml"/>
+<entry key="oelig"/>
+<entry key="tilde"/>
+</properties>
